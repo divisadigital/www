@@ -12,7 +12,7 @@ La notcia de la opción del nuevo servicio se dió despues de que la VP communit
 
 ## ¿Qué es changetip?
 
-Es un servicio que funciona dentro de redes sociales como twitter, facebook y google+, en donde bots responden a mensajes que contienen información especifica como el monto y el bot de change tip, en la mayoria de los casos @changetip.
+Es un servicio que funciona dentro de redes sociales como twitter, facebook y google+, en donde el bot (@changetip) responde a mensajes que contienen información especifica como el monto.
 
 La forma mas sencilla de dejar un tip es:
 
