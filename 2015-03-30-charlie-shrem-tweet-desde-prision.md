@@ -3,7 +3,8 @@ layout: post
 title: Tweet de Charlie Shreem desde prision
 author: Ulises
 categories: noticias
-reference: http://www.theguardian.com/technology/2014/dec/22/bitcoin-entrepreneur-sentenced-jail
+reference: "http://www.theguardian.com/technology/2014/dec/22/bitcoin-entrepreneur-sentenced-jail"
+published: true
 ---
 
 El emprededor Charlie Shrem anuncia en un tweet que empezará a twittear desde prision donde tendrá que cumplir dos años de sentencia tras declararse culpable por los cargos de lavado de dinero, cargo relacionado con el sitio de ventas ilegales Silk Road.
@@ -17,5 +18,3 @@ Tras declararse culpable y pedir clemencia se le redujo una sentencia de 30 año
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Si deseas saber que es lo que tiene que decir este emprendedor desde prision síguelo en twitter.
-
-{{ page.reference }}
