@@ -17,4 +17,7 @@ Tras declararse culpable y pedir clemencia se le redujo una sentencia de 30 año
 <blockquote class="twitter-tweet" lang="fr"><p>Well I&#39;m off to prison now! Follow my twitter for tweets from the inside <a href="https://twitter.com/hashtag/Bitcoin?src=hash">#Bitcoin</a></p>&mdash; Charlie Shrem (@CharlieShrem) <a href="https://twitter.com/CharlieShrem/status/582439316988796929">30 Mars 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="fr"><p>So, I’m going to prison. <a href="http://t.co/yFWlxcj4JP">http://t.co/yFWlxcj4JP</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash">#Bitcoin</a></p>&mdash; Charlie Shrem (@CharlieShrem) <a href="https://twitter.com/CharlieShrem/status/576158948950171648">12 Mars 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Si deseas saber que es lo que tiene que decir este emprendedor desde prision síguelo en twitter.
