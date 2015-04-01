@@ -2,7 +2,7 @@
 layout: post
 title: "Mycelium recibe actualización en iOS"
 author: Ulises
-categories: aplicaciones
+categories: apps
 ---
 
 Una de las aplicaciones mas populares para la recepción y envio de Bitcoin ha recibido el día de hoy una actualización, permitiendo a los usuarios el desbloqueo de la misma mediante el uso de touchID o passcode.
