@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trezor, nuevo firmware y promesa en mejora del manejo de contraseñas"
 author: Ulises
 categories: dispositivos
