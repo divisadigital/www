@@ -3,7 +3,7 @@ layout: post
 title: "Trezor, nuevo firmware y promesa en mejora del manejo de contraseñas"
 author: Ulises
 categories: dispositivos
-cover: "/images/trezor_label-1024x576"
+cover: "/images/trezor_label-1024x576.jpg"
 ---
 
 Uno de los primeros y más confiables dispositivos de cold storage de bitcoin agrega nuevas funcionalidades al dispositvo de almacenamiento y seguridad de la criptocurrency, entre los cuales estan:
