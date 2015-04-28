@@ -4,6 +4,7 @@ title: "SurBTC, sitio de compra y venta de bitcoin"
 author: Ulises
 categories: exchange
 reference: "https://www.fayerwayer.com/2015/04/surbtc-la-opcion-chilena-para-intercambio-de-bitcoins/"
+cover: "/images/surbtc-bkg.jpg"
 ---
 
 La adopción de Bitcoin crece en América Latina, SurBTC se une al reducido grupo de sitios que ofrecen la compra y venta de bitcoin en la zona. El sitio permite el intercambio de pesos chiles a Bitcoin y promete en el futuro el use de dolar americano.
